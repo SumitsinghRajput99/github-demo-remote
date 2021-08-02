@@ -17,5 +17,6 @@ def mod(x,y):
 #Square function 
 def square(x):
 	return x**2
+#cube function added
 def cube(x):
 	return x**3
