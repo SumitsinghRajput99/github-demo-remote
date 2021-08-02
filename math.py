@@ -10,7 +10,10 @@ def multiply(x,y):
 # this is divide functions
 def divide(x,y):
 	return x-y
+
+#mod function
 def mod(x,y):
 	return x%y
+#Square function 
 def square(x):
 	return x**2
